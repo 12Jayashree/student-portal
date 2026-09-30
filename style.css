@@ -1,0 +1,25 @@
+body {
+    background-color: #f2f5f9;
+    font-family: Arial;
+}
+
+.navbar {
+    background-color: #4a69bd;
+}
+
+.card {
+    border: none;
+    border-radius: 15px;
+}
+
+.card:hover {
+    transform: scale(1.03);
+    transition: 0.3s;
+}
+
+.details {
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
